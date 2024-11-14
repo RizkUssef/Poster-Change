@@ -40,3 +40,6 @@ body{
     aspect-ratio: none;
     border-radius: 18px;
 }
+.active{
+    opacity: 0.5;
+}
